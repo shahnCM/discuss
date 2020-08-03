@@ -2,10 +2,10 @@ use Mix.Config
 
 # Configure your database
 config :discuss, Discuss.Repo,
-  username: "root",
-  password: "",
-  database: "discuss_dev",
-  hostname: "localhost",
+  username: System.get_env("Database_User"),
+  password: System.get_env("Database_Pass"),
+  database: System.get_env("Database_Name"),
+  hostname: System.get_env("Host_Address"),
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 
