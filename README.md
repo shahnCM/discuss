@@ -1,6 +1,6 @@
 # Discuss
 
-# This one is incomplete 
+# This Project is incomplete 
 
 To start your Phoenix server:
 
