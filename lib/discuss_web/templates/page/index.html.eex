@@ -16,6 +16,9 @@
       <li>
         <a href="https://github.com/phoenixframework/phoenix/blob/v1.5/CHANGELOG.md">v1.5 Changelog</a>
       </li>
+      <li>
+        <a href="https://google.com">Google</a>
+      </li>
     </ul>
   </article>
   <article class="column">
@@ -33,6 +36,9 @@
       <li>
         <a href="https://elixir-slackin.herokuapp.com/">Elixir on Slack</a>
       </li>
+      <li>
+        <a href="https://google.com">Google</a>
+      </li>      
     </ul>
   </article>
 </section>
