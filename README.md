@@ -1,5 +1,7 @@
 # Discuss
 
+# This one is incomplete 
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
